@@ -22,6 +22,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf)             |
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf)                                      |
 | Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](2025-02-26/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
+| One Backend to Rule Them All | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](26-02-2025/One_Backend_to_Rule_Them_All-Garth_Henson.pdf) / [Code](https://github.com/guahanweb/demo-power-network) |
 |--------------------|---------------| ---------                                                                                                                        |
 
 
@@ -29,7 +30,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation Title | Speaker Name    | Content                                                                                                                                        |
 |--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
-Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
+Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
+| Paths Unseen: Leadership Lessons from Middle Earth | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](27-02-2025/Leadership_Lessons_from_Middle_Earth-Garth_Henson.pdf) |
 |--------------------| --------------- | ---------                                                                                                                                      |
 
 
