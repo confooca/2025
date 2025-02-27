@@ -21,7 +21,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Systems Thinking - Concepts To See The Whole | Joel Tosi | [Slides (PDF)](26-02-2025/Systems_Thinking_Concepts_To_See_The_Whole-Joel_Tosi.pdf)                                              |
 | Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf)             |
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf)                                      |
-| Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](2025-02-26/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
+| Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](26-02-2025/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
+| What's New in ASP.NET Core 9 and Blazor 9  | Christian Wenz | [Slides (PDF)](26-02-2025/what's_new_in_asp.net_core_9-christian_wenz.pdf)  |
 |--------------------|---------------| ---------                                                                                                                        |
 
 
@@ -30,6 +31,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
 Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
+| Life as an Adult: What's New in React 19  | Christian Wenz | [Slides (PDF)](27-02-2025/what's_new_in_react_19-christian_wenz.pdf)  |
 |--------------------| --------------- | ---------                                                                                                                                      |
 
 
