@@ -46,6 +46,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
 | Netty                                                 | Sean Sullivan | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
 | Ça bouge du côté des animations CSS | Raphaël Goetter | [slides](27-02-2025/Animations_CSS-raphael_goetter.pdf) |
+| Oh Python! Where Did We Go Wrong?   | Greg Ward       | [slides (PDF)](27-02-2025/oh_python-greg_ward.pdf)                                                 |
 
 ## February 28
 
@@ -57,4 +58,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) ||--------------------|---------------|---------|
 | Node.js What's new and what's next | Michael Dawson  | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf) |
 | (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
+| Stop Using (quite so many) Mock Objects | Greg Ward  | [slides (PDF)](28-02-2025/stop_using_mocks-greg_ward.pdf)               |
 
