@@ -43,7 +43,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Secure DevOps: Automated Mobile App Security Scanning      | Lester Botello      | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
 | Core Web Vitals and their effect on User Experience        | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/core-web-vitals-and-their-effect-on-user-experience) |
 | The Path to Native TypeScript                              | Marco Ippolito      | [Slides (PDF)](27-02-2025/The_Path_to_Native_TypeScript-Marco_Ippolito.pdf) |
-| 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖 | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
+| 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖 | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  
 | 6 Safe Refactorings for Untested Legacy Code               | Nicolas Carlo       | [Slides (PDF)](27-02-2025/6_Safe_Refactorings_for_Untested_Legacy_Code-Nicolas_Carlo.pdf) |
 | From Idea to Impact: Building RAG Beyond POC               | Maria Khalusova     | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf) |
 | Netty                                                      | Sean Sullivan       | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
@@ -51,6 +51,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | OAuth and trustworthy AI agents                            | Andrew Lavers       | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
 | Using WebAssembly in a Web Component as a Polyfill         | Gerard Gallant      | [slides](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
 | Commit Like a Pirate                                       | Sebastian Feldmann  | [Slides (PDF)](27-02-2025/Commit_Like_A_Pirate-Sebastian_Feldmann.pdf) / [Code](https://github.com/captainhookphp/captainhook)
+| Advanced Error Handling with Event-Driven Architecture | Mario Bittencourt | [Slides (PDF)](27-02-2025/advanced_error_handling_with_event_driven_architecture-mario_bittencourt.pdf) |
 | [Are you sure your access tokens are really secure?](https://confoo.ca/en/2025/session/are-you-sure-your-access-tokens-are-really-secure) | Wesley Cabus | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
 
 ## February 28
