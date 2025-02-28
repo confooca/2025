@@ -65,15 +65,16 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 
 ## February 28
 
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
-| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf) / [Code](https://github.com/lesterbotello/ConFoo2025)
-| Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) |
-| Node.js What's new and what's next | Michael Dawson | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
-| Replace complex business logic with machine learning models | Michal Zarnecki | [Slides (PDF)](28-02-2025/Replace_complex_business_logic_with_machine_learning_models-Michal_Zarnecki.pdf) |
-| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
-| Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
-| (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
-| The Statistics of Anomaly Detection | Philip Tellis | [slides](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
-| DooM# - Blasting demons using C# without the unsafe keyword | Wesley Cabus | [Slides](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
-| Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
+| Presentation Title | Speaker Name  | Content                                                                                                                                     |
+|--------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf) / [Code](https://github.com/lesterbotello/ConFoo2025)              
+| Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf)                                                           |
+| Node.js What's new and what's next | Michael Dawson | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)                                                                     
+| Replace complex business logic with machine learning models | Michal Zarnecki | [Slides (PDF)](28-02-2025/Replace_complex_business_logic_with_machine_learning_models-Michal_Zarnecki.pdf)                                  |
+| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)             
+| Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis) |
+| (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                                                                                           |
+| The Statistics of Anomaly Detection | Philip Tellis | [slides](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection)                                                             |
+| DooM# - Blasting demons using C# without the unsafe keyword | Wesley Cabus | [Slides](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf)                                             |
+| Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf)                                        |
+| AI and the SDLC/DevOps Conundrum | Adam Englander | [Slides (PDF)](28-02-2025/AI_and_the_SDLC_DevOps_Conundrum-Adam_Englander.pdf) |
