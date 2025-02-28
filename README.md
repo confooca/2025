@@ -23,6 +23,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf)                                      |
 | Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](2025-02-26/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
 | GitHub Actions                                        | Sean Sullivan                | [Slides (PDF)](26-02-2025/github_actions_sean_sullivan.pdf)                                                          |
+| CLI Comeback: Développez des applications CLI en .NET                                 | Tidjani Belmansour                | [Slides (PDF)](26-02-2025/developpez_des_applications_CLI_en_DotNet-Tidjani_Belmansour.pdf)                                                          |
 |--------------------|---------------| ---------                                                                                                                        |
 
 
@@ -33,6 +34,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf) |
 | Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
 | Netty                                                 | Sean Sullivan | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
+| 10 strategies to keep your cloud costs under control                                  | Tidjani Belmansour | [slides (PDF)](27-02-2025/10_strategies_to_control_your_cloud_costs-Tidjani_Belmansour.pdf)|
+| Futur leader ou expert chevronné: Comment choisir sa voie ?                                  | Lamia Rarrbo | [slides (PDF)](27-02-2025/futur_leader_ou_expert_chevronne-Lamia_Rarrbo.pdf)|
 |--------------------| --------------- | ---------                                                                                                                                      |
 
 
