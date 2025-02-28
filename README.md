@@ -59,7 +59,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) |
 | Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
-| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 | (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
 | The Statistics of Anomaly Detection | Philip Tellis | [slides](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
+| Implementing Shift-Left with Cypress Component Testing | Vitaly Skadorva | [Slides (PDF)](28-02-2025/Implementing_Shift_Left_with_Cypress_Component_Testing-Vitaly_Skadorva.pdf) |
+|--------------------|---------------|---------|
