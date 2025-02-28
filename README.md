@@ -38,10 +38,12 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 
 ## February 28
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
-| Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
-XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
-| Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) ||--------------------|---------------|---------|
+| Presentation Title                                        | Speaker Name    | Content                                                                                                                         |
+|-----------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Node.js What's new and what's next                        | Michael Dawson  | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)              
+ XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello  | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025) 
+| Intro to OpenTelemetry for Developers                     | AL Rodriguez    | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf)                                               |
+| Ktor: le framework 100% Kotlin                            | Arthur veys     | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
+| --------------------                                      | --------------- | ---------                                                                                                                       |
 
 
