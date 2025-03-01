@@ -61,7 +61,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Entity Framework (Core) Unchained                          | Dan Mallott         | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
 | Database Performance Data Engineers | Peter Zaitsev | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
 Python, Safe & Sound! | Marcus Boerger | [Slides (PDF)](27-02-2025/2020250227_python_safe_and_sound.pdf)
-
+| Application Observability like you've never heard before   | Jonatan Ivanov      | [Slides (PDF)](27-02-2025/application_observability_like_you_have_never_heard_before-jonatan_ivanov.pdf) / [Code](https://github.com/jonatan-ivanov/teahouse/) |
 
 
 ## February 28
@@ -79,3 +79,4 @@ Python, Safe & Sound! | Marcus Boerger | [Slides (PDF)](27-02-2025/2020250227_py
 | DooM# - Blasting demons using C# without the unsafe keyword | Wesley Cabus | [Slides](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
 | Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
 | So, C++ is unsafe! | Marcus Boerger | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
+| A Million Ways to Fail in Production                         | Jonatan Ivanov      | [Slides (PDF)](28-02-2025/a_million_ways_to_fail_in_production-jonatan_ivanov.pdf) / [Code](https://github.com/jonatan-ivanov/resourceater/) |
