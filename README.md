@@ -39,6 +39,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Why HTML Forms Still Rule the Web                        | Nick Taylor                  | [Slides (PDF)](2025-02-26/Why_HTML_Forms_Still_Rule_the_Web-Nick_Taylor.pdf) |
 | Retrieval Augmented Generation in PHP                    | Michal Zarnecki              | [Slides (PDF)](26-02-2025/Retrieval_Augmented_Generation_in_PHP-Michal_Zarnecki.pdf) |
 | Testing AI Applications - A Whole New Ballgame           | Adam Englander               | [Slides (PDF)](26-02-2025/Testing_AI_Applications_A_Whole_New_Ballgame-Adam_Englander.pdf)|
+| Q-LEARNING… DE LA THÉORIE À LA PRATIQUE                  | Ali Amine Ghazali            | [Slides (PDF)](26-02-2025/Q-Learning_Ali-Amine-Ghazali.pdf) |
 
 ## February 27
 
@@ -79,3 +80,4 @@ Python, Safe & Sound! | Marcus Boerger | [Slides (PDF)](27-02-2025/2020250227_py
 | DooM# - Blasting demons using C# without the unsafe keyword | Wesley Cabus | [Slides](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
 | Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
 | So, C++ is unsafe! | Marcus Boerger | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
+|  MLOps est un mythe! Pipeline E2E de test, pack et versionner  |  Ali Amine Ghazali  | [Slides (PDF)](28-02-2025/MLOps_est_un_mythe-Ali-Amine-Ghazali.pdf) |
