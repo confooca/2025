@@ -1,7 +1,7 @@
 Adding your Talks
 =================
 
-We're really grateful for your presentation at ConFoo 2024. Please use this guide to share your slides and code samples with attendees.
+We're really grateful for your presentation at ConFoo 2025. Please use this guide to share your slides and code samples with attendees.
 
 
 ## TL;DR
@@ -27,7 +27,7 @@ We're really grateful for your presentation at ConFoo 2024. Please use this guid
 
 4. Create files for your content.  We use a careful naming convention to ensure there will be as few merge conflicts as possible.
 
-   Slides: `presentation_name-author-name.pdf`  Please create a pdf version of your slides. In the rare case your slides can't be made into a PDF, you can include a link to the slides instead.
+   Slides: `presentation_name-author_name.pdf`  Please create a pdf version of your slides. In the rare case your slides can't be made into a PDF, you can include a link to the slides instead.
 
    Demos: `presentation_name-author_name.zip`  Please link to GitHub, GitLab, BitBucket, or a location for your source code. If your source code doesn't live online, please create a zip file of your code samples.
 
