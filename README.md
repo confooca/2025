@@ -59,9 +59,10 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Are you sure your access tokens are really secure?         | Wesley Cabus        | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
 | The hidden dance of complexity                             | Michiel Rook        | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-27/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
 | Entity Framework (Core) Unchained                          | Dan Mallott         | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
+
 | Database Performance Data Engineers | Peter Zaitsev | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
 Python, Safe & Sound! | Marcus Boerger | [Slides (PDF)](27-02-2025/2020250227_python_safe_and_sound.pdf)
-
+| Database Performance Data Engineers | Peter Zaitsev | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf) |
 
 
 ## February 28
